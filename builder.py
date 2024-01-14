@@ -94,7 +94,7 @@ while True:
                 Write.Print(f"\n{filename} The file has been converted to exe.", Colors.red_to_yellow)
 
     elif choice == "2":
-        Write.Print("\nEnjoy", Colors.red_to_yellow)
+        Write.Print("\nSto ancora a fa aspetta un po", Colors.red_to_yellow)
 
     elif choice == "3":
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
