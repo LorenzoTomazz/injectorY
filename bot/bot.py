@@ -91,4 +91,4 @@ async def send_embed(ctx):
 
 
 
-bot.run('MTE5NTM0NDM5ODMxODMxMzU0Mg.Gd-kg3.1rso1h8k1s9M42QWpcfQdo69XfOJSBER97JNk0')
+bot.run('---TOKEN---')
